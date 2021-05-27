@@ -2,7 +2,8 @@
 
 ---
 
-Detta är en labb gjord med svelte
+# Labb svelte
+Detta är en hemsida du på olika sätt kan ändra utseendet på.
 
 
 # svelte app
